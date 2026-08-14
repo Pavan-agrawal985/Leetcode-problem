@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
