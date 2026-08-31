@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
@@ -51,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
