@@ -46,6 +46,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
