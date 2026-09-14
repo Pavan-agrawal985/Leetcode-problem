@@ -40,6 +40,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0796-rotate-string) |
@@ -82,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
