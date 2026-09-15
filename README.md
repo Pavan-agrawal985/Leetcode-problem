@@ -10,6 +10,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -29,6 +30,7 @@
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -66,6 +68,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
@@ -107,6 +111,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,5 +130,6 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
