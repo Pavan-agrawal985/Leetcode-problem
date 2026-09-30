@@ -33,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
@@ -219,4 +220,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
