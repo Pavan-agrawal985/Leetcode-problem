@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0202-happy-number) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
@@ -215,6 +217,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
