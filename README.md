@@ -34,6 +34,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0141-linked-list-cycle) |
@@ -219,6 +221,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
