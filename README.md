@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0086-partition-list) |
