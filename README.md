@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -76,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -104,10 +106,12 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +156,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,4 +237,8 @@
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
