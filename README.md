@@ -12,6 +12,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
@@ -28,6 +29,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -42,6 +44,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
@@ -242,4 +245,20 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
