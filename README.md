@@ -15,6 +15,7 @@
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
