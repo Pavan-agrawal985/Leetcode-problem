@@ -62,6 +62,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
@@ -172,6 +173,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
@@ -179,6 +181,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
