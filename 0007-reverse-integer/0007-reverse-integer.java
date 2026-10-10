@@ -4,6 +4,7 @@ class Solution {
         long  res = 0 ;
         long  l = Math.abs((long)x);
         while (l > 0) {
+            
             res *= 10;
             res += l % 10;
             l /= 10;
