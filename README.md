@@ -172,6 +172,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 ## Linked List
