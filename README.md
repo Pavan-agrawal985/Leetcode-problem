@@ -13,6 +13,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 ## Linked List
@@ -227,6 +229,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
