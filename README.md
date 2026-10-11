@@ -52,6 +52,7 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -102,6 +103,7 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -252,6 +254,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
