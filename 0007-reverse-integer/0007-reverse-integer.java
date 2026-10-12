@@ -3,6 +3,7 @@ class Solution {
         int temp = x;
         long  res = 0 ;
         long  l = Math.abs((long)x);
+        
         while (l > 0) {
             
             res *= 10;
