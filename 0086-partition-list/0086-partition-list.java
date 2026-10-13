@@ -20,6 +20,7 @@ class Solution {
         ListNode temp2=l2;
 
         while(temp!=null){
+            
             if(temp.val<x){
                 temp1.next=temp;
                 temp1=temp1.next;
