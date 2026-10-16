@@ -20,6 +20,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -228,6 +229,7 @@
 | [0328-odd-even-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
