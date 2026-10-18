@@ -1,23 +1,20 @@
 class Solution {
     public int myAtoi(String s) {
-       int n=s.length();
-       int i=0;
-       while(i<n && s.charAt(i)==' '){
-            i++;
-       }
-
-       boolean flag=true;
-       if(i<n && s.charAt(i)=='-'){
-            flag=false;
-            i++;
-       }
-       else if (i < n && s.charAt(i) == '+') {
+        int n = s.length();
+        int i = 0;
+        while (i < n && s.charAt(i) == ' ') {
             i++;
         }
 
-        int res=0;
+        boolean flag = true;
+        if (i < n && s.charAt(i) == '-') {
+            flag = false;
+            i++;
+        } else if (i < n && s.charAt(i) == '+') {
+            i++;
+        }
 
-        
+        int res = 0;
 
         while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
 
