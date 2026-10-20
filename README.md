@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0509-fibonacci-number) |
@@ -178,6 +179,7 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
