@@ -63,6 +63,7 @@
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -187,6 +188,7 @@
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
