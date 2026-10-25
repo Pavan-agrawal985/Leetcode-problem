@@ -9,6 +9,8 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
 
+        
+        
         int sum = map.get(s.charAt(0));
         for (int i = 1; i < s.length(); i++) {
             if (s.charAt(i) == 'V' || s.charAt(i)=='X') {
