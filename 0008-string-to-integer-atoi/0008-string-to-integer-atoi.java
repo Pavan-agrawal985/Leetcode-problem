@@ -1,6 +1,7 @@
 class Solution {
     public int myAtoi(String s) {
         int n = s.length();
+        
         int i = 0;
         while (i < n && s.charAt(i) == ' ') {
             i++;
