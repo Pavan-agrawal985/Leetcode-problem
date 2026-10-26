@@ -68,6 +68,7 @@
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -194,6 +195,7 @@
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
