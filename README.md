@@ -60,6 +60,7 @@
 | [0204-count-primes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
@@ -192,6 +193,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
@@ -212,6 +214,7 @@
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
