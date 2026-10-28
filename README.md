@@ -47,6 +47,7 @@
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0162-find-peak-element) |
@@ -290,6 +292,7 @@
 | [0048-rotate-image](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
