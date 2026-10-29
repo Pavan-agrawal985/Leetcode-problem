@@ -63,6 +63,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +137,7 @@
 | [0148-sort-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
