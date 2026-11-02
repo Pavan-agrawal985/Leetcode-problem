@@ -72,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
@@ -134,6 +135,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -148,6 +150,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -178,6 +181,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -214,6 +218,7 @@
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
