@@ -15,16 +15,12 @@ class Solution {
             return d.size();
         }
     int ct=0;
-        for(int num: nums){
-            if(set.contains(num)){
+        for(int num: set){
+            
                 if(set.contains(num+k)){
                     ct++;
                 }
-                if(set.contains(num-k)){
-                    ct++;
-                }
-                set.remove(num);
-            }
+                
         }
         return ct;
         
