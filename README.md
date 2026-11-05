@@ -71,6 +71,7 @@
 | [0275-h-index-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -156,6 +157,7 @@
 | [0274-h-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
