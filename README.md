@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0507-perfect-number) |
@@ -32,6 +33,7 @@
 | [0054-spiral-matrix](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -105,6 +107,7 @@
 | [0392-is-subsequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0796-rotate-string) |
