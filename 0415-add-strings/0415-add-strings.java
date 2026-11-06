@@ -1,13 +1,13 @@
 class Solution {
     public String addStrings(String num1, String num2) {
-        String str = "";
+        StringBuilder str = new StringBuilder();
 
         int i = num1.length() - 1;
         int j = num2.length() - 1;
         int carry=0;
         while(i>=0 || j>=0 || carry==1){
 
-            int sum=0;
+            int sum=carry;
 
             if(i>=0){
                 sum+= num1.charAt(i)-'0';
@@ -17,15 +17,13 @@ class Solution {
                 sum+= num2.charAt(j)-'0';
                 j--;
             }
-            sum+=carry;
+            
             carry=sum/10;
-            sum%=10;
-
-            str+=sum;
+            str.append(sum%10);
 
         }
 
-        return new StringBuilder(str).reverse().toString();
+        return str.reverse().toString();
 
     }
 }
