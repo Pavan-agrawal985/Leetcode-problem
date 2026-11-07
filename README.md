@@ -81,6 +81,7 @@
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -163,6 +164,7 @@
 | [0414-third-maximum-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
