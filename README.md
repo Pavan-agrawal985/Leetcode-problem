@@ -57,6 +57,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0137-single-number-ii) |
@@ -348,6 +349,7 @@
 | [0053-maximum-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0509-fibonacci-number) |
