@@ -4,19 +4,22 @@ class Solution {
         for(char ch : s.toCharArray()){
             int  c=ch-'0';
             if(c>=0 && c<=9){
-                st.pop();
+                if(!st.isEmpty()){
+                    st.pop();
+                }
+                
             }
             else{
                 st.push(ch);
             }
         }
 
-        String str="";
+        StringBuilder str=new StringBuilder();
         while(!st.isEmpty()){
-            str=str+st.pop();
+            str.append(st.pop());
         }
 
-        return new StringBuilder(str).reverse().toString();
+        return str.reverse().toString();
         
     }
 }
