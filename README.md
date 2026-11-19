@@ -35,6 +35,7 @@
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
