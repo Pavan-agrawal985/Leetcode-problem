@@ -121,6 +121,7 @@
 | [1598-crawler-log-folder](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2000-reverse-prefix-of-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## String Matching
@@ -209,6 +210,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -275,6 +277,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
