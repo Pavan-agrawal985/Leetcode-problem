@@ -34,6 +34,7 @@
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
 ## Number Theory
@@ -93,6 +94,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -411,4 +413,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
