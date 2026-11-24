@@ -89,6 +89,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1598-crawler-log-folder](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1598-crawler-log-folder) |
@@ -372,6 +373,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
