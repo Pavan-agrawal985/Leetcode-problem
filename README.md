@@ -36,6 +36,7 @@
 | [0258-add-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3174-clear-digits](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3174-clear-digits) |
@@ -84,6 +85,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -281,6 +283,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
