@@ -25,6 +25,7 @@
 | [0507-perfect-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
@@ -297,6 +298,7 @@
 | [0260-single-number-iii](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
