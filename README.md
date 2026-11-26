@@ -49,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -150,6 +151,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavan-agrawal985/Leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
